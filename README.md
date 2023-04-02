@@ -18,7 +18,7 @@ The website for selling electric Bicycles is responsive: adapted for computers, 
  ### 🖥️ Layout ###
 ![mockup](https://user-images.githubusercontent.com/105829768/229381778-47f69838-fc1a-4edd-a809-7c1c5a16a3fc.png)
 
-Click <a href= "https://kuhora.github.io/SnakeGame/" rel="nofollow">HERE</a> 
+Click <a href= "https://kuhora.github.io/Goatbikes/" rel="nofollow">HERE</a>
 to have a better look at the website :) ! 
 <hr>
 
